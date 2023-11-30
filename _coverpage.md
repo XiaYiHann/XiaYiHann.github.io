@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Jiyuan's Notes 
+# Yihan's Notes 
 
 ![logo](m_狗蛙.jpeg)
 > 🎸量化摇滚

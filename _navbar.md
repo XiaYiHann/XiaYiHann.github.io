@@ -3,5 +3,5 @@
 
 
 * 友情链接
-  * [SUSTech](https://www.sustech.edu.cn/)
+  * [SUSTech](https://www.szu.edu.cn/)
   * [Docsify](https://docsify.js.org/#/)
